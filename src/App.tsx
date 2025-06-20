@@ -34,16 +34,16 @@ function App() {
   };
 
   const carouselImages = [
-    '/1 (3).jpg',
-    '/1 (5).jpg',
+    '/2 copy.png',
+    '/5 copy.png',
+    '/7 copy.png',
+    '/Design sem nome copy.png',
+    '/Gg5ZtRtWMAAjwD3.jpg',
     '/1 (6).jpg',
     '/1 (7).jpg',
     '/1 (9).jpg',
     '/1 (10).jpg',
     '/1 (11).jpg',
-    '/1 (16).jpg',
-    '/1 (17).jpg',
-    '/1 (18).jpg',
   ];
 
   if (showPreloader) {
