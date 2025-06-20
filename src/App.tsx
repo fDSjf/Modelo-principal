@@ -39,11 +39,11 @@ function App() {
     '/7 copy.png',
     '/Design sem nome copy.png',
     '/Gg5ZtRtWMAAjwD3.jpg',
-    '/1 (6).jpg',
-    '/1 (7).jpg',
-    '/1 (9).jpg',
-    '/1 (10).jpg',
-    '/1 (11).jpg',
+    '/3 copy.png',
+    '/6 copy.png',
+    '/9 copy.png',
+    '/Gm-YF1CXoAAX3fD.jpg',
+    '/GVhqqMIXQAAYp26.jpg',
   ];
 
   if (showPreloader) {
@@ -157,7 +157,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.pagbrasilpagamento.com/checkout/78e13c83-30e3-40c3-a9b4-3f960348d780"
+                  href="https://pay.pagbrasilpagamento.com/checkout/54e58b82-bf5f-4ec3-8adc-eb8130a6cc7c"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
@@ -188,7 +188,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.pagbrasilpagamento.com/checkout/5e52ad7e-c329-476c-830f-23ce9d8aebb1"
+                  href="https://pay.pagbrasilpagamento.com/checkout/f351623a-0b71-4348-87ce-8cc2d0dcebe6"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
@@ -220,7 +220,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.pagbrasilpagamento.com/checkout/755b70dd-3494-42cf-85f3-717aa70ab09d"
+                  href="https://pay.pagbrasilpagamento.com/checkout/574c77b4-b351-446f-9534-01193e59901a"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
