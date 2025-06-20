@@ -67,7 +67,7 @@ function App() {
           <div className="welcome-content">
             <div className="profile-image-container">
               <img 
-                src="/53ebf5e0-c585-4ac6-9f3f-5a408e1f16c8.jpg" 
+                src="/4 copy.png" 
                 alt="Profile" 
                 className="profile-image"
                 loading="lazy"
