@@ -157,7 +157,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.pagtransacao.com/checkout/54e58b82-bf5f-4ec3-8adc-eb8130a6cc7c"
+                  href="https://pay.marketplacetransacaosegura.com/checkout/54e58b82-bf5f-4ec3-8adc-eb8130a6cc7c"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
@@ -188,7 +188,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.pagtransacao.com/checkout/f351623a-0b71-4348-87ce-8cc2d0dcebe6"
+                  href="https://pay.marketplacetransacaosegura.com/checkout/f351623a-0b71-4348-87ce-8cc2d0dcebe6"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
@@ -220,7 +220,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.pagtransacao.com/checkout/574c77b4-b351-446f-9534-01193e59901a"
+                  href="https://pay.marketplacetransacaosegura.com/checkout/574c77b4-b351-446f-9534-01193e59901a"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
