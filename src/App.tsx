@@ -157,7 +157,7 @@ function App() {
                   </div>
                 </div>
                 <a 
-                  href="https://pay.marketplacetransacaosegura.com/checkout/54e58b82-bf5f-4ec3-8adc-eb8130a6cc7c"
+                  href="https://app.syncpayments.com.br/payment-link/a1019fca-a7f1-4cac-8822-b36ec40cadb0"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="package-button"
