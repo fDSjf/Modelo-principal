@@ -135,6 +135,10 @@ function App() {
           <div className="packages-content">
             <h1 className="packages-title">Escolha seu pacote</h1>
             
+            <div className="swipe-warning">
+              Deslize para cima
+            </div>
+            
             <div className="packages-grid">
               {/* Pacote 1 - Pecado Doce */}
               <div className="package-card">
